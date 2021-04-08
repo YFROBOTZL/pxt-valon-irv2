@@ -1,4 +1,4 @@
-//% weight=10 color=#7BD239 icon="\uf12e" block="IR_V2"
+//% weight=10 color=#7BD239 icon="\uf12e" block="MINI_IR V2"
 namespace BitIR {
     
     let irstate:number;
