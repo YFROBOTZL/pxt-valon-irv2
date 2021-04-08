@@ -1,0 +1,29 @@
+{
+    "name": "Mini_IR V2",
+    "version": "0.0.1",
+    "description": "MicroBit V2 - Extension for Mini IR Receive Module",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "microphone": "*"
+    },
+    "files": [
+        "BitIR.ts",
+        "enums.d.ts",
+        "BitIR.cpp",
+        "ReceiverIR.cpp",
+        "ReceiverIR.h",
+        "RemoteIR.h",
+        "_locales/zh-cn/BitIR-strings.json",
+        "shims.d.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}

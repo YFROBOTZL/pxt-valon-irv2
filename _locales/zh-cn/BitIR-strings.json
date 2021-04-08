@@ -1,0 +1,4 @@
+{
+    "BitIR.IR_callbackUserV2|block": "当接收到红外时运行(V2)",
+    "BitIR.IR_KeyValue|block": "红外键值|%value"
+}
